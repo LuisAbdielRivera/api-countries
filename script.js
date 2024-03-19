@@ -20,8 +20,8 @@ getCountries(data => {
         <h5 class="card-title">${pais.name.official}</h5>
             <p class="card-text">
                 Capital: ${pais.capital}<br>
-                Región: ${pais.region}<br>
-                Sub Región: ${pais.subregion}<br>
+                Region: ${pais.region}<br>
+                Sub Region: ${pais.subregion}<br>
                 Continent: ${pais.continents}<br>
                 Time-Zone: ${pais.timezones}
             </p>
